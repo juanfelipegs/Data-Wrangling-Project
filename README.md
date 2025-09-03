@@ -1,2 +1,5 @@
 # Data-Wrangling-Project
-Data Wrangling Project
+The dataset was collected from the Iraqi society, specifically from the laboratory of Medical City Hospital and the Specialized Center for Endocrinology and Diabetes, Al-Kindy Teaching Hospital. Patient files were used to extract relevant medical information. The dataset includes dataset include ID, Number of Patient, Age, Gender, Creatinine ratio (Cr), Body Mass Index (BMI), Urea, Cholesterol (Chol), Fasting lipid profile (including total, LDL, VLDL, Triglycerides (TG), and HDL Cholesterol), and HbA1c. The output variable is Class, which represents the patient's diabetes disease class (Diabetic;
+Non-Diabetic, or Predict-Diabetic). The dataset consists of 14 columns and 1,000 rows, providing information about various medical and laboratory parameters related to diabetes. There were 5 missing values in the output column "Class", representing .5% of the values in the column. No other values in any other columns were missing. 
+
+The primary goal of this project is to develop a model that can accurately predict the risk of diabetes based on various medical and laboratory parameters. This model will help healthcare professionals identify individuals at high risk of developing diabetes, enabling early intervention and preventive measures.
